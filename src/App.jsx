@@ -388,9 +388,13 @@ export default function App() {
                 <ul className="space-y-2 text-sm text-[#a1a8a6] list-disc list-inside">
                   <li>Completed an intensive 6-month hands-on industrial internship focused on practical machine learning workflows and software execution.</li>
                   <li>Gained hands-on experience in data preprocessing, software deployment environments, and model training methodologies.</li>
+               
                 </ul>
               </div>
             </div>
+            <Certificates/>
+            
+            
 
             <div className="relative">
               <span className="absolute -left-[31px] md:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-violet-500 ring-8 ring-[#050607]" />
