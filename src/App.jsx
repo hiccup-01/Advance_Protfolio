@@ -1,7 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-// ... your other existing imports ...
-import Certificates from './Certificates' // <--- ADD THIS LINE AT THE TOP
+import Certificates from './Certificates';
 import { 
   Github, 
   Linkedin, 
